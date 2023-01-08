@@ -1,0 +1,8 @@
+.logout-button {
+  height: 30px;
+  width: 100px;
+  font-size: 15px;
+  font-family: 'Roboto';
+  outline: none;
+  cursor: pointer;
+}
